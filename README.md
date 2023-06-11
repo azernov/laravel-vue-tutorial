@@ -1,1 +1,1 @@
-Исходный код для [https://youtu.be/Xqf4o5Kvxqs](Youtube-туториала)
+Исходный код для [Youtube-туториала](https://youtu.be/Xqf4o5Kvxqs)
